@@ -4,7 +4,7 @@ HNS SSL Redirect automatically redirects HTTP traffic to HTTPS for websites host
 
 ## Usage
 
-Once activated, the plugin will automatically redirect HTTP requests to HTTPS for HNS domains with a secure connection.
+Once activated, the script will automatically redirect HTTP requests to HTTPS for HNS domains with a secure connection.
 
 ## Customization
 
