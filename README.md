@@ -16,4 +16,4 @@ For any issues or questions regarding the plugin, please join the [Telegram](htt
 
 ## License
 
-This plugin is licensed under the GNU General Public License v3.0 or later - see the [LICENSE](LICENSE) file for details.
+This plugin is licensed under the GNU General Public License v3.0 
