@@ -9,6 +9,8 @@ Once activated, the plugin will automatically redirect HTTP requests to HTTPS fo
 ## Customization
 
 If you need to customize the redirection behavior or modify the logic, you can edit the `script.js` file located in the plugin directory.
+Change 'yourhnstld' to your TLD  <script src="https://yourhnstld/ssl.js"></script>
+
 
 ## Support
 
